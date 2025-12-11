@@ -1,0 +1,86 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /search/
+Disallow: /?s=
+Disallow: /*?s=
+Disallow: /*?orderby=
+Disallow: /*?min_price=
+Disallow: /*?max_price=
+
+# Яндекс
+User-agent: Yandex
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Clean-param: ref /blog/
+Clean-param: source /blog/
+Clean-param: utm_source&utm_medium&utm_campaign /
+
+# Google
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Боты для изображений
+User-agent: Googlebot-Image
+Allow: /img/
+Allow: /images/
+Allow: /uploads/
+
+User-agent: YandexImages
+Allow: /img/
+Allow: /images/
+Allow: /uploads/
+
+# Скорость сканирования
+Crawl-delay: 2
+
+# Sitemap
+Sitemap: https://vnedorog-vnevremeni.ru/sitemap.xml
+Sitemap: https://vnedorog-vnevremeni.ru/sitemap-images.xml
+
+# Host
+Host: vnedorog-vnevremeni.ru
+
+# Яндекс-Каталог
+User-agent: YandexDirect
+Allow: /
+
+# Боты для рекомендаций
+User-agent: YandexMetrika
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+# Запрет для плохих ботов
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: MegaIndex
+Disallow: /
+
+# Разрешение для RSS
+User-agent: Feedfetcher-Google
+Allow: /
+
+User-agent: YandexBlog
+Allow: /
+Disallow: /admin/
+Disallow: /private/

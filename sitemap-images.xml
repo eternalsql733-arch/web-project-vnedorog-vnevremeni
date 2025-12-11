@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <!-- Изображения для главной -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/</loc>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/hero/sea-gelendzhik.jpg</image:loc>
+            <image:title>Морской пейзаж Геленджик - ГК Вне Дорог</image:title>
+            <image:caption>Туристические услуги на Черноморском побережье</image:caption>
+            <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+        </image:image>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/hero/mountains-gelendzhik.jpg</image:loc>
+            <image:title>Горный пейзаж Геленджик - активный отдых</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/hero/real-estate-gelendzhik.jpg</image:loc>
+            <image:title>Недвижимость в Геленджике у моря</image:title>
+        </image:image>
+    </url>
+    
+    <!-- Изображения для туризма -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/services/tourism/</loc>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/services/yacht-rental.jpg</image:loc>
+            <image:title>Аренда яхт в Геленджике</image:title>
+            <image:caption>Морские прогулки на яхте по Черному морю</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/services/jeep-tours.jpg</image:loc>
+            <image:title>Джиппинг в горах Геленджика</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/services/diving.jpg</image:loc>
+            <image:title>Дайвинг в Геленджике</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/services/wakeboard.jpg</image:loc>
+            <image:title>Вейкборд на море</image:title>
+        </image:image>
+    </url>
+    
+    <!-- Изображения для фотосессий -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/services/photosession/</loc>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/photosession/yacht-photoshoot.jpg</image:loc>
+            <image:title>Фотосессия на яхте в Геленджике</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/photosession/beach-photo.jpg</image:loc>
+            <image:title>Фотосессия на пляже</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/photosession/couple-photo.jpg</image:loc>
+            <image:title>Романтическая фотосессия</image:title>
+        </image:image>
+    </url>
+    
+    <!-- Изображения для недвижимости -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/services/real-estate/</loc>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/real-estate/sea-view-house.jpg</image:loc>
+            <image:title>Дом с видом на море в Геленджике</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/real-estate/apartment-gelendzhik.jpg</image:loc>
+            <image:title>Квартира в Геленджике</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/real-estate/construction.jpg</image:loc>
+            <image:title>Строительство домов в Геленджике</image:title>
+        </image:image>
+    </url>
+    
+    <!-- Логотипы и брендинг -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/about/</loc>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/logo.png</image:loc>
+            <image:title>Логотип ГК Вне Дорог - Вне Времени</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/brand/logo-full.png</image:loc>
+            <image:title>Полный логотип компании</image:title>
+        </image:image>
+    </url>
+
+</urlset>

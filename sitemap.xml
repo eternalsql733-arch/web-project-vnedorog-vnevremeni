@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    
+    <!-- Главная страница -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://vnedorog-vnevremeni.ru/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://vnedorog-vnevremeni.ru/" />
+    </url>
+    
+    <!-- Страница услуг -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/services/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Туристический Геленджик -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/services/tourism/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/tourism/sea-tours.jpg</image:loc>
+            <image:title>Морские прогулки в Геленджике</image:title>
+            <image:caption>Аренда яхт и морские экскурсии на Черном море</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/tourism/jeeping.jpg</image:loc>
+            <image:title>Джиппинг в горах Геленджика</image:title>
+        </image:image>
+    </url>
+    
+    <!-- Пару кадров - фотосессии -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/services/photosession/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/photosession/yacht-photo.jpg</image:loc>
+            <image:title>Фотосессия на яхте в Геленджике</image:title>
+        </image:image>
+    </url>
+    
+    <!-- СК ТочноСтройДом -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/services/real-estate/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/real-estate/houses.jpg</image:loc>
+            <image:title>Дома у моря в Геленджике</image:title>
+        </image:image>
+    </url>
+    
+    <!-- Бизнес-Юрист -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/services/lawyer/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- О компании -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/about/</loc>
+        <lastmod>2024-01-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Контакты -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/contacts/</loc>
+        <lastmod>2024-01-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Блог - статьи -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/blog/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Статьи -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/blog/tourism-in-gelendzhik/</loc>
+        <lastmod>2024-01-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+        <image:image>
+            <image:loc>https://vnedorog-vnevremeni.ru/img/blog/tourism-article.jpg</image:loc>
+            <image:title>Туризм в Геленджике - лучшие развлечения</image:title>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/blog/real-estate-investment/</loc>
+        <lastmod>2024-01-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/blog/bankruptcy-fz-127/</loc>
+        <lastmod>2024-01-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Отзывы -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/reviews/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <!-- FAQ -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/faq/</loc>
+        <lastmod>2024-01-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <!-- Политика конфиденциальности -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/privacy-policy/</loc>
+        <lastmod>2024-01-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.2</priority>
+    </url>
+    
+    <!-- Условия использования -->
+    <url>
+        <loc>https://vnedorog-vnevremeni.ru/terms-of-use/</loc>
+        <lastmod>2024-01-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+</urlset>
